@@ -1,7 +1,7 @@
 module Sort (
   merge,
-  mergeSort,
   mergeAll,
+  mergeSort,
   sort
   ) where
 
